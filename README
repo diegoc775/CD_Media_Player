@@ -1,0 +1,5 @@
+By: Diego Cobos
+This Project serves as a default media player for Android Devices that do come equipped with one. It takes all playable music files and
+filters them through a RecyclerView Adapter for ease of access/readability. It also contains a media player UI, along with an automatic
+asynchronous scroller to navigate through the file. It showcases the Android OS MediaStore Library, Permissions management, and internal 
+filesystem reading capabilities.
