@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/fiu_bright_gold</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/headphone_launcher_icon_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.CDMediaPlayer</item>
+    </style>
+</resources>
